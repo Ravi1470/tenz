@@ -6,6 +6,8 @@ function clock() {
         timer.innerText=i
        },(10-i)*1000);
 
+       
+
     }
 }
 
